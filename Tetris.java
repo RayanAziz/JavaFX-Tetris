@@ -2,7 +2,7 @@
  * This JavaFX program is a Tetris game.
  * It utilizes panes to construct the GUI and a canvas to draw and handle
  * the shapes. It has a total of 11 classes: this main class that does most
- * of the work, 7 shapes classes for each shape that have drawing and
+ * of the work, 7 shape classes for each shape that have drawing and
  * rotating instructions in methods, all of which inherit an abstract class
  * that has general and abstract methods for all of them. Then there's a
  * class for handling individual squares (pieces) of each shape. Finally,
