@@ -9,7 +9,7 @@
  * the Grid class is responsible for the grid and its related operations like
  * registering shapes and clearing completed lines.
  * Some features are added such as pause/resume buttons and score/high score
- * counter. The game was tested many times to insure it's bug-free.
+ * counter. The game was tested many times to ensure it's bug-free.
  * Programmed as a final project for a college course by:
  * Rayan Aziz
  * May, 2018
